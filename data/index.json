@@ -64,6 +64,15 @@
       "totalChapters": 40
     },
     {
+      "id": "klara-and-the-sun-a-novel",
+      "title": "Klara and the Sun _ A Novel",
+      "author": "Kazuo Ishiguro",
+      "description": "",
+      "totalWords": 90351,
+      "totalPages": 91,
+      "totalChapters": 19
+    },
+    {
       "id": "learning-to-love-the-spaces-in-between",
       "title": "Learning to Love the Spaces in Between",
       "author": "Claire Gillman",
@@ -127,6 +136,15 @@
       "totalChapters": 41
     },
     {
+      "id": "piranesi-susanna-clarke",
+      "title": "Piranesi - Susanna Clarke",
+      "author": "Unknown",
+      "description": "",
+      "totalWords": 0,
+      "totalPages": 6,
+      "totalChapters": 0
+    },
+    {
       "id": "pratchett-terry-discworld-16-soul-music",
       "title": "Pratchett, Terry - Discworld 16 - Soul Music",
       "author": "Pratchett, Terry",
@@ -161,6 +179,15 @@
       "totalWords": 133904,
       "totalPages": 134,
       "totalChapters": 26
+    },
+    {
+      "id": "stoner",
+      "title": "Stoner",
+      "author": "John Williams",
+      "description": "William Stoner is born at the end of the nineteenth century into a dirt-poor Missouri farming family. Sent to the state university to study agronomy, he instead falls in love with English literature and embraces a scholar's life, so different from the hardscrabble existence he has known. And yet as the years pass, Stoner encounters a succession of disappointments: marriage into a \"proper\" family estranges him from his parents; his career is stymied; his wife and daughter turn coldly away from hi",
+      "totalWords": 89938,
+      "totalPages": 90,
+      "totalChapters": 24
     },
     {
       "id": "the-alignment-problem",
@@ -217,6 +244,15 @@
       "totalChapters": 6
     },
     {
+      "id": "the-house-on-mango-street",
+      "title": "The House on Mango Street",
+      "author": "Sandra Cisneros",
+      "description": "NOW AVAILABLE IN EBOOK FOR THE FIRST TIME Acclaimed by critics, beloved by readers of all ages, taught everywhere from inner-city grade schools to universities across the country, and translated all over the world, The House on Mango Street is the remarkable story of Esperanza Cordero. Told in a series of vignettes – sometimes heartbreaking, sometimes deeply joyous – it is the story of a young Latina girl growing up in Chicago, inventing for herself who and what she will become. Few other books ",
+      "totalWords": 24233,
+      "totalPages": 25,
+      "totalChapters": 52
+    },
+    {
       "id": "the-left-hand-of-darkness",
       "title": "The Left Hand Of Darkness",
       "author": "Ursula K. Le Guin",
@@ -235,6 +271,15 @@
       "totalChapters": 27
     },
     {
+      "id": "the-night-circus",
+      "title": "The Night Circus",
+      "author": "Erin Morgenstern",
+      "description": "",
+      "totalWords": 122299,
+      "totalPages": 123,
+      "totalChapters": 25
+    },
+    {
       "id": "the-ocean-at-the-end-of-the-lane",
       "title": "The Ocean at the End of the Lane",
       "author": "Neil Gaiman",
@@ -242,6 +287,15 @@
       "totalWords": 55034,
       "totalPages": 56,
       "totalChapters": 27
+    },
+    {
+      "id": "the-sea-beast-takes-a-lover",
+      "title": "The Sea Beast Takes a Lover",
+      "author": "Michael Andreasen",
+      "description": "An astonishing fiction debut from a UC Irvine MFA graduate and recent contributor to The New Yorker Bewitching and playful, with its feet only slightly tethered to the world we know, The Sea Beast Takes a Lover explores hope, love, and loss across a series of surreal landscapes and wild metamorphoses. Just because Jenny was born without a head doesn't mean she isn't still annoying to her older brother, and just because the Man of the Future's carefully planned extramarital affair ends in alien a",
+      "totalWords": 56302,
+      "totalPages": 57,
+      "totalChapters": 17
     },
     {
       "id": "the-snow-queen",
@@ -388,5 +442,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-10-25T04:11:00.710Z"
+  "updatedAt": "2026-10-25T04:34:43.852Z"
 }
