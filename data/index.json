@@ -28,15 +28,6 @@
       "totalChapters": 24
     },
     {
-      "id": "does-god-play-dice-the-new-mathematics-of-chaos",
-      "title": "Does God Play Dice?: The New Mathematics of Chaos",
-      "author": "Ian Stewart",
-      "description": "Since the dramatic discovery of the mathematical concept of chaos in 1989, the controversy of its contents has settled down. This revised edition of Does God Play Dice? takes a fresh look at its achievements and potential. With a new preface and three completely new chapters, it includes the latest practical applications of chaos theory, such as developing intelligent heart pacemakers. All this provides a fascinating new answer to Einstien's question which provided the title of this book.",
-      "totalWords": 141037,
-      "totalPages": 142,
-      "totalChapters": 202
-    },
-    {
       "id": "dune",
       "title": "Dune",
       "author": "Frank Herbert",
@@ -199,15 +190,6 @@
       "totalChapters": 37
     },
     {
-      "id": "the-essence-of-chaos-the-jessie-and-john-danz-lecture",
-      "title": "The Essence of Chaos (The Jessie and John Danz Lecture",
-      "author": "Edward N. Lorenz",
-      "description": "",
-      "totalWords": 69901,
-      "totalPages": 70,
-      "totalChapters": 14
-    },
-    {
       "id": "the-hidden-life-of-trees",
       "title": "The Hidden Life of Trees",
       "author": "Peter Wohlleben",
@@ -249,6 +231,15 @@
       "author": "Sande Hart",
       "description": "The word liminal means “threshold,” the space in-between crisis and action, dilemma and choice, opportunity and action. A liminal space is any threshold, including this evolutionary growth spurt we are amid right now; between here and the unknown place that is calling us. This liminal space is our moment of choice, and it is our responsibility and our privilege to question assumptions, heal the wounds that no longer serve us, discover our planetary assignment, show up in our most authentic geniu",
       "totalWords": 55106,
+      "totalPages": 56,
+      "totalChapters": 27
+    },
+    {
+      "id": "the-ocean-at-the-end-of-the-lane",
+      "title": "The Ocean at the End of the Lane",
+      "author": "Neil Gaiman",
+      "description": "",
+      "totalWords": 55034,
       "totalPages": 56,
       "totalChapters": 27
     },
@@ -305,6 +296,15 @@
       "totalWords": 85272,
       "totalPages": 86,
       "totalChapters": 18
+    },
+    {
+      "id": "the-wicker-husband",
+      "title": "The Wicker Husband",
+      "author": "saff1",
+      "description": "",
+      "totalWords": 6263,
+      "totalPages": 7,
+      "totalChapters": 2
     },
     {
       "id": "the-art-of-gathering-how-we-meet-and-why-it-matters",
@@ -388,5 +388,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-07-10T04:31:29.210Z"
+  "updatedAt": "2026-10-25T04:11:00.710Z"
 }
